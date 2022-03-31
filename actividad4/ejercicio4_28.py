@@ -1,13 +1,13 @@
-pais=input ("Escriba un país perteneciente a lo que fue la Gran Colombia: ")
-colombia= ("\U+1F1E8")
-venezuela=("\U0001F1FB")
-panama=("\U0001F1F5")
+bandera=input ("Escoga un número del 1 al 3 para ver una bandera sorpresa: ")
+arcoiris= ("\U0001F3F3")
+transgenero=("\U0001F1FB")
+pirata=("\U0001F3F4")
 
-if pais== colombia:
-    print('su bandera es: {colombia}')
-elif pais==venezuela:
-    print('su bandera es: {colombia}')
-elif pais==panama:
-    print('su bandera es: {colombia}')   
+if bandera== ("1"):
+    print('su bandera es: \U0001F3F3')
+elif bandera==("2"):
+    print('su bandera es: \U000FE0F')
+elif bandera==("3"):
+    print('su bandera es: \U0001F3F4')   
     
     
