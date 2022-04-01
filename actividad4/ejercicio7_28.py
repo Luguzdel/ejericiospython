@@ -18,4 +18,5 @@ if valor_compra > 50000:
     elif  cliente== ("amarilla"):
         print(f'Su balota es amarilla, tiene 10% de descuento y el valor a pagar es: {amarilla}')
 else:
-    print(f'No aplica descuento, el valor a pagar es: {valor_compra}')        
+    print(f'No aplica descuento, el valor a pagar es: {valor_compra}')  
+#cambio           

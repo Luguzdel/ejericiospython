@@ -15,4 +15,5 @@ if edad >= 18  <= 65:
     else:
         print("No apto para donar sangre")             
 else:
-    print("No apto para donar sangre")    
+    print("No apto para donar sangre")
+#cambio         
